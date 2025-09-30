@@ -1,0 +1,85 @@
+Perfect! Here’s a **polished README for Taskly** with your name included and ready for portfolio or GitHub:
+
+---
+
+# Taskly: A Sleek To-Do App
+
+**Taskly** is a modern, lightweight To-Do List application built with **HTML, CSS, and JavaScript**. It helps users manage tasks efficiently with a clean interface and persistent storage using **localStorage**.
+
+---
+
+## **Features**
+
+* **Add Tasks:** Quickly add new tasks using a simple input field.
+* **Mark as Completed:** Mark tasks as done with a single click.
+* **Delete Tasks:** Remove individual tasks or clear completed ones.
+* **Persistent Storage:** Tasks are saved using **localStorage**, so they remain after refreshing the page.
+* **Responsive Design:** Works smoothly across devices with interactive and clean layouts.
+
+---
+## **Technologies Used**
+
+* **HTML5** – Structure and layout of the app.
+* **CSS3** – Styling, responsive design, and interactive UI elements.
+* **JavaScript** – Handles adding, deleting, marking tasks, and localStorage integration.
+
+---
+
+## **Installation / Usage**
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/taskly.git
+   ```
+2. Open `index.html` in your browser.
+3. Start managing tasks efficiently!
+
+---
+
+## **Future Enhancements**
+
+* Add task categories or priorities.
+* Enable drag-and-drop task reordering.
+* Implement dark mode for improved accessibility.
+
+---
+
+## **Author**
+
+**Paridhi Shukla** – Developer
+GitHub: [https://github.com/yourusername](https://github.com/PARIDHI1703)
+
+---
+
+
+
+When the page loads, this JSON string is retrieved from localStorage and deserialized back into a usable JavaScript array with JSON.parse(), allowing the application to rebuild the user's task list.
+
+🚀 How to Run Locally
+This is a purely front-end project and requires no special build steps.
+
+Clone the repository or download the files.
+
+git clone <your-repo-url>
+
+
+Navigate to the project directory.
+
+cd <your-repo-folder>
+
+
+Open the index.html file in your web browser.
+
+You can do this by double-clicking the file or right-clicking and selecting "Open with..." your browser of choice.
+
+📈 Future Improvements
+Edit Tasks: Implement functionality to edit the text of an existing task.
+
+Task Filtering: Add buttons to filter between "All," "Active," and "Completed" tasks.
+
+Due Dates & Priorities: Allow users to add optional due dates or priority levels to tasks.
+
+Improved Accessibility: Enhance the application with ARIA attributes for better screen reader support.
+📜 License
+This project is licensed under the MIT License. See the LICENSE.md file for details.
